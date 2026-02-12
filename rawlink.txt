@@ -1,0 +1,416 @@
+raw link 1
+
+https://raw.githubusercontent.com/hyder1848/Jazz-tv-free/main/Jamalitv_updated_120.m3u
+
+
+
+#EXTINF:-1, 
+#EXTINF:-2,Ktn jazz free
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo1NDowNiBQTSZoYXNoX3ZhbH
+#EXTINF:-1,KTN JAZZ FREE
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
+#EXTINF:-1, Kashish Tv Jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunks.m3u8
+#EXTINF:-1, Kashish Tv Jazz LQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115L/chunks.m3u8
+#EXTINF:-1,KTN News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
+#EXTINF:-1,KTN News jazz LQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132L/chunks.m3u8
+#EXTINF:-1,Time News jazz free1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-125M/chunks.m3u8/
+#EXTINF:-1,Time News jazz LQ
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-125L/chunks.m3u8?nimblesessionid=80471954&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDM6NDk6MzMgUE0maGFzaF92YWx1ZT13dHNxaUZkL1o3TEpWTlZieEJvQ0lRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/TimeNews-abr/playlist.m3u8
+#EXTINF:-1,Time News jazz free
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgODo0ODo1NiBQTSZoYXNoX3ZhbHVlPUdIS1pRbUtmd2FNMk15MUNhWUdid2c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/TimeNews-abr/playlist.m3u8
+#EXTINF:-1,Sindh News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80M/chunks.m3u8
+#EXTINF:-1,Mehran TV jazzLQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106L/chunks.m3u8
+#EXTINF:-1,Mehran TV jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106H/chunks.m3u8
+#EXTINF:-1,ARY News jazz HD
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,ARY News LQ
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2718398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT04clRJZFZWdkw4RjR0ZDhqQm5Oa3pBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,ARY News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8
+#EXTINF:-1,Geo News HD
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93H/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2716584&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MjE6MTcgUE0maGFzaF92YWx1ZT0wanRaMU9GTForbW9XaDlxRU5pbXd3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,Geo News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
+#EXTINF:-1,Geo News jazz LQ
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/vsat-93L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=2716584&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDQ6MjE6MTcgUE0maGFzaF92YWx1ZT0wanRaMU9GTForbW9XaDlxRU5pbXd3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,Express News HQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
+#EXTINF:-1,Express News MQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91M/chunks.m3u8
+#EXTINF:-1,Express News LQ
+https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91L/chunks.m3u8
+#EXTINF:-1,Sindh TV jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/vsat-sindhtv-H/chunks.m3u8
+#EXTINF:-1,ARY Digital jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
+#EXTINF:-1,Geo Entertainment jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/vsat-geotv-H/chunks.m3u8
+#EXTINF:-1,Bol Entertainment jazz fee
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8
+#EXTINF:-1,Express Entertainment jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/live/vsat-83H/chunks.m3u8
+#EXTINF:-1,A Plus jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112H/chunks.m3u8
+#EXTINF:-1,Animal Planet jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunks.m3u8
+#EXTINF:-1,Aaj Entertainment jazz free
+https://cdn07isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/125H/chunks.m3u8
+#EXTINF:-1,Lahore Rung jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/live/vsat-86M/chunks.m3u8
+#EXTINF:-1,Jalwa jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135H/chunks.m3u8
+#EXTINF:-1,8XM jazz free
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/8xm-abr/live/131H/chunks.m3u8
+#EXTINF:-1,Madni Channel jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94M/chunks.m3u8
+#EXTINF:-1,Neo News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110H/chunks.m3u8
+#EXTINF:-1,Hum Sitaray jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8
+#EXTINF:-1,Dawn News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/DawnNews-abr/live/vsat-130H/chunks.m3u8
+#EXTINF:-1,Set Entertainment jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-M/chunks.m3u8
+#EXTINF:-1,ABN News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-abnnews-H/chunks.m3u8
+#EXTINF:-1,Hum TV jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-M/chunks.m3u8
+#EXTINF:-1,ARY Zindagi jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-M/chunks.m3u8
+#EXTINF:-1,365 News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-365TV-H/chunks.m3u8
+#EXTINF:-1,Sab TV jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8
+#EXTINF:-1,PTv news jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVNews-abr/live/191H/chunks.m3u8
+#EXTINF:-1,PTV National jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
+#EXTINF:-1,PTV Sports jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1,PTV Sports HD jazz free
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNzo1Mzo1MiBBTSZoYXNoX3ZhbHVlPW14ajk5aVNJOWZjRFN4bnlFVUZkdnc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1, PTV WORLD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVWorld-abr/live/192H/chunks.m3u8?nimblesessionid=69864457&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNzozNDoyOSBBTSZoYXNoX3ZhbHVlPTRGMllScmNWWEZvODdoNmlGVk5FekE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVWorld-abr/playlist.m3u8
+#EXTINF:-1,PTV Home jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
+#EXTINF:-1,PTV Home 
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI2IDU6MTM6MTkgUE0maGFzaF92YWx1ZT1LaEtmMkdxYlZBVkx0NDRwb0o3OU1BPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVHome-abr/playlist.m3u8
+#EXTINF:-1,Ten Sports
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDI1IDEyOjUzOjI1IFBNJmhhc2hfdmFsdWU9akNkQyswejYvZWpGWnh1MGhTZ3BlQT09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1,Asia Cup 2025 jazz free
+https://cdn07khi.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDEyOjM0OjA0IFBNJmhhc2hfdmFsdWU9MUhWOTdUdTFmN3MwNXNoUHo2SjMvQT09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1,TPLAY MUSIC 🎵 paid
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1,Eurosport jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI1IDg6MTQ6NDIgUE0maGFzaF92YWx1ZT1xMytpSUY4RXorTWd2NXhTK2c1WEtRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1,Samaa TV jazz free
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Hum Masala jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,GTV News jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,TV One jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Suno News jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,ABN News jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ABNnews-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,AAN TV jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Metro 1 News jazzfree
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Metro1News-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Aur Life jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AurLife-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,CGTN HD jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/CgtnHD-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Channel 5 jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Channel5-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Aaj News jazz free
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,News One jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/NewsOne-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Minimax jazz free
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Baby TV jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Tri Series 2025 jazz free
+https://cdn07khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,LTN Family hazz free
+https://cdn05khi.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Jalwa jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Discovery HD jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8?wmsAuthSign=...
+#EXTINF:-1,Waseeb TV jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMjoxNCBBTSZoYXNoX3ZhbHVlPVIzaFBsZGl1RE93U1M0c05uYyswQkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1,Movie One jazz free
+https://cdn02khi.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgNDowMzozNiBBTSZoYXNoX3ZhbHVlPWM0Qktlb0twV2hSRUhKK29Wb2V3MlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1,EPL Live jazz free
+https://cdn06khi.tamashaweb.com:8087/jazzauth/EPL-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjUgMTE6NTU6MTAgQU0maGFzaF92YWx1ZT1wRXRqdXE5bVpGdlRPd0hvdVZRZGRBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,A1TV Live jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDEyOjU5OjI0IFBNJmhhc2hfdmFsdWU9MVFaVWtQTWg2RGlOTjAxck1JOHloUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/A1TV-abr/playlist.m3u8
+#EXTINF:-1,Aik News jazz free
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDE6MDc6NTAgUE0maGFzaF92YWx1ZT1PSGVrekIvaTRLdStxUWN4Zjh0OTVBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PNN-abr/playlist.m3u8
+#EXTINF:-1,Kay2 jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8
+#EXTINF:-1,AAN TV jazz free
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8
+#EXTINF:-1,Inplus jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8
+#EXTINF:-1,Hum News jazz free
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
+#EXTINF:-1,City 21 jazz free
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8
+#EXTINF:-1,Public TV jazz free
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PublicTV-abr/playlist.m3u8
+#EXTINF:-1,Cartoon Network jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
+#EXTINF:-1,Green Entertainment jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
+#EXTINF:-1,City 42 jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
+#EXTINF:-1,AVT Khyber TV jazz free
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/playlist.m3u8
+#EXTINF:-1,Pashto 1 jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Pashto1-abr/playlist.m3u8
+#EXTINF:-1,Saudi Sunnah jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8
+#EXTINF:-1,Saudi Makkah jazz free
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8
+#EXTINF:-1,Movie One jazz frwe
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8
+#EXTINF:-1,Play TV jazz feee
+https://cdn12isb.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
+#EXTINF:-1,Al Jazeera jazz free
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
+#EXTINF:-1,Discovery Pakistan jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
+#EXTINF:-1,PTV Bolan jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8
+#EXTINF:-1,Arooj TV jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/AroojTV-abr/playlist.m3u8
+#EXTINF:-1,Hum TV jazz free
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
+#EXTINF:-1,Aaj Entertainment jazz free
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
+#EXTINF:-1,Sun News jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
+#EXTINF:-1,movie oscar
+https://cdn-4.pishow.tv/live/233/master.m3u8
+########## Zong TV ##########
+#EXTINF:-1,Zong TV - Ten Sports
+https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
+#EXTINF:-1,Zong TV - ATV
+https://tapmadlive.akamaized.net:443/tapmadold/atv.smil/chunklist_w1409135523_b748000_slEng.m3u8
+#EXTINF:-1,Zong TV - BOL Entertainment
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+#EXTINF:-1,Zong TV - GEO Entertainment
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+#EXTINF:-1,Zong TV - A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+#EXTINF:-1,Zong TV - Express Entertainment
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+#EXTINF:-1,Zong TV - SAB Entertainment
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
+#EXTINF:-1,Zong TV - Mehran TV
+https://s2.ideationtec.live/Mehran_TV/Mehran_TV.m3u8
+#EXTINF:-1,Zong TV - GEO News
+https://s4.ideationtec.live/GEO_News/GEO_News.m3u8
+#EXTINF:-1,Zong TV - Sindh TV
+https://s1.ideationtec.live/Sindh_TV/Sindh_TV.m3u8
+#EXTINF:-1,Zong TV - Samaa TV
+https://s5.ideationtec.live/Samaa_TV/Samaa_TV.m3u8
+#EXTINF:-1,Zong TV - Aaj Entertainment
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+#EXTINF:-1,Zong TV - BOL News HD
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+#EXTINF:-1,Zong TV - GTV News HD
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+#EXTINF:-1,Zong TV - GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+#EXTINF:-1,Zong TV - Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+#EXTINF:-1,Zong TV - Express News
+https://s5.ideationtec.live/Express_News/Express_News.m3u8
+#EXTINF:-1,Zong TV - Dawn News
+https://s5.ideationtec.live/Dawn/Dawn.m3u8
+#EXTINF:-1,Zong TV - Such TV HD
+https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
+#EXTINF:-1,INDIA- tv9india news
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
+#EXTINF:-1,Zong TV - City 41
+https://s2.ideationtec.live/City_41/City_41.m3u8
+#EXTINF:-1,Zong TV - LTN Family HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+#EXTINF:-1,Zong TV - Saudi Sunnah HD
+https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
+#EXTINF:-1,Zong Dharti TV
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
+#EXTINF:-1,Aaj Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI1IDE6MjA6MDYgUE0maGFzaF92YWx1ZT11d3FnWlNCV0Z5UHBGYU1LcW54TXhnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
+#EXTINF:-1,PTV PTVHOME paid
+https://ptvstream1.nayatel.com:8096/transcoder/ptvhometrc_source/playlist.m3u8
+#EXTINF:-1,PTV PTVGLOBEL paid
+https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8
+#EXTINF:-1 tvg-id="dangal.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Dangal_TV_logo.png",Dangal TV
+https://live-dangal.akamaized.net:443/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="hindihitshd.in" tvg-logo="https://i.ibb.co/9rTzYfG/hindi-hits-hd.png",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1, live t20 world cup 
+https://cdn13lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDM6Mzk6MzMgQU0maGFzaF92YWx1ZT10dTZ1V24xL3VHd1pQdDJVem00OGNRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1, DD NATIONAL  paid
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1,KTN News 24LHR jazz free
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMDo1NjowMyBBTSZoYXNoX3ZhbHVlPVpMSDJFUVphV2V2c1g1L0xEQjZNTFE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/ktnNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" group-title="Sports",GEO Super
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
+#EXTINF:-1,filmax tamsha
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Filmax-abr/live/vsat-filmax-M/chunks.m3u8
+#EXTINF:-1,oscar movie
+https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:-1,B4U MOVIE 
+https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
+#EXTINF:-1,BIG MAGIC 
+https://mumt05.tangotv.in/BIGMAGIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,dabang2
+https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8
+#EXTINF:-1, DD SPORT 
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1, DD SPORT Hd
+https://mnp.lnt.sh/bwtDawxSaG/ddsp/chunks.m3u8?nimblesessionid=2251771&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgODozMTozNiBBTSZoYXNoX3ZhbHVlPTdodHo0Y0VIRjBlQ0dyem9FdmZXb2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,DHamaka movie 
+https://cdn-1.pishow.tv/live/235/master.m3u8
+#EXTINF:-1,DESI TV INDIA
+https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist216-p.m3u8
+#EXTINF:-1,ABZy MOVIE 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index_1.m3u8
+#EXTINF:-1,B4U Music 🎵 
+https://cdnb4u.wiseplayout.com/B4U_Music/SD216/SD216.m3u8
+#EXTINF:-1,B4U KADAK HD
+https://cdnb4u.wiseplayout.com/B4U_Kadak/SD216/SD216.m3u8
+#EXTINF:-1,ANJAN TV INDIA 
+https://cdn-1.pishow.tv/live/993/master.m3u8
+#EXTINF:-1,DD Bharthi
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1,DD Urdu 
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1,DD kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1, GOLDmiNIES MOVIE 
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1,GOLDMINES
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1, MUSIC 🎵 
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1, BOLLYWOOD MASALA
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/81176e16-b313-4890-a2f1-762331c73c46/2.m3u8
+#EXTINF:-1, Fox sport501
+http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
+#EXTINF:-1, willd tv
+https://dfhsahpa45kk2.clou
+
+
+Raw link 2
+
+https://raw.githubusercontent.com/hyder1848/Jazz-tv-free/main/Jamalitv_updated_128.m3u
+
+
+
+
+
+
+
+########## Zong TV ##########
+#EXTINF:-1,Zong TV - Ten Sports
+https://tapmadlive.akamaized.net:443/tapmadold/tensports.smil/chunklist_w1346140991_b1248000_slENG.m3u8
+#EXTINF:-1,Zong TV - ATV
+https://tapmadlive.akamaized.net:443/tapmadold/atv.smil/chunklist_w1409135523_b748000_slEng.m3u8
+#EXTINF:-1,Zong TV - BOL Entertainment
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+#EXTINF:-1,Zong TV - GEO Entertainment
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+#EXTINF:-1,Zong TV - A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+#EXTINF:-1,Zong TV - Express Entertainment
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+#EXTINF:-1,Zong TV - SAB Entertainment
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
+#EXTINF:-1,Zong TV - Mehran TV
+https://s2.ideationtec.live/Mehran_TV/Mehran_TV.m3u8
+#EXTINF:-1,Zong TV - GEO News
+https://s4.ideationtec.live/GEO_News/GEO_News.m3u8
+#EXTINF:-1,Zong TV - Sindh TV
+https://s1.ideationtec.live/Sindh_TV/Sindh_TV.m3u8
+#EXTINF:-1,Zong TV - Samaa TV
+https://s5.ideationtec.live/Samaa_TV/Samaa_TV.m3u8
+#EXTINF:-1,Zong TV - Aaj Entertainment
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+#EXTINF:-1,Zong TV - BOL News HD
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+#EXTINF:-1,Zong TV - GTV News HD
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+#EXTINF:-1,Zong TV - GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+#EXTINF:-1,Zong TV - Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+#EXTINF:-1,Zong TV - Express News
+https://s5.ideationtec.live/Express_News/Express_News.m3u8
+#EXTINF:-1,Zong TV - Dawn News
+https://s5.ideationtec.live/Dawn/Dawn.m3u8
+#EXTINF:-1,Zong TV - Such TV HD
+https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
+#EXTINF:-1,Zong TV - pk sport
+https://live20.bozztv.com/akamaissh101/ssh101/pksportshd/chunks.m3u8
+#EXTINF:-1,Zong TV - City 41
+https://s2.ideationtec.live/City_41/City_41.m3u8
+#EXTINF:-1,Zong TV - LTN Family HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+#EXTINF:-1,Zong TV - Saudi Sunnah HD
+https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
+#EXTINF:-1,Zong Dharti TV
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1381970605_b748000_slEng.m3u8
+#EXTINF:-1,Aaj Entertainment
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI1IDE6MjA6MDYgUE0maGFzaF92YWx1ZT11d3FnWlNCV0Z5UHBGYU1LcW54TXhnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
+#EXTINF:-1,PTV PTVHOME
+https://ptvstream1.nayatel.com:8096/transcoder/ptvhometrc_source/playlist.m3u8
+#EXTINF:-1,PTV PTVGLOBEL
+https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8
+#EXTINF:-1 tvg-id="dangal.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Dangal_TV_logo.png",Dangal TV
+https://live-dangal.akamaized.net:443/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="hindihitshd.in" tvg-logo="https://i.ibb.co/9rTzYfG/hindi-hits-hd.png",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1, myco1
+https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+#EXTINF:-1, myco2
+https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/tracks-v5a1/mono.m3u8
+#EXTINF:-1,KTN News 24LHR
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMDo1NjowMyBBTSZoYXNoX3ZhbHVlPVpMSDJFUVphV2V2c1g1L0xEQjZNTFE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/ktnNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" group-title="Sports",GEO Super
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
+
+#EXTINF:-1 tvg-id="LIVE_SPORT" tvg-name="Live Sport" group-title="Sports",Live Sport
+https://ml-pull-dvc-myco.io:2096/RTMP-MYCO-24/7/index.m3u8
+#EXTINF:-1,U19M WC Match 1
+https://cdn06khi.tamashaweb.com:8087/jazzauth/U19M-WC-A-abr/live/U19_M1_240p/chunks.m3u8
+#EXTINF:-1,ICC MEN T20
+https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
+#EXTINF:-1,BPL AVOD
+https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8
+#EXTINF:-1,ICC MEN T20 Backup
+https://cdn03khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
+#EXTINF:-1,AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1,CloudFront Live
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1,CloudFront Stream
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1,HUM TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
