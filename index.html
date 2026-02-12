@@ -182,7 +182,8 @@
     <script>
         const playlists = {
             jazz: 'https://raw.githubusercontent.com/hyder1848/Jazz-tv-free/main/Jamalitv_updated_120.m3u',
-            zong: 'https://raw.githubusercontent.com/hyder1848/Zong-Tv-Free/main/Zong_Free_Updated.m3u'
+            zong: 'https://raw.githubusercontent.com/hyder1848/Zong-Tv-Free/main/Zong_Free_Updated.m3u',
+            iptv: 'https://iptv-org.github.io/iptv/index.m3u'
         };
 
         const channelsContainer = document.getElementById('channels-container');
@@ -212,18 +213,21 @@
             allChannels = [];
 
             try {
-                const [jazzRes, zongRes] = await Promise.all([
+                const [jazzRes, zongRes, iptvRes] = await Promise.all([
                     fetch(playlists.jazz),
-                    fetch(playlists.zong)
+                    fetch(playlists.zong),
+                    fetch(playlists.iptv)
                 ]);
 
                 const jazzText = await jazzRes.text();
                 const zongText = await zongRes.text();
+                const iptvText = await iptvRes.text();
 
                 const jazzChannels = parseM3U(jazzText, 'jazz');
                 const zongChannels = parseM3U(zongText, 'zong');
+                const iptvChannels = parseM3U(iptvText, 'iptv');
 
-                allChannels = [...jazzChannels, ...zongChannels];
+                allChannels = [...jazzChannels, ...zongChannels, ...iptvChannels];
                 allChannels = allChannels.filter((v, i, a) => a.findIndex(t => (t.url === v.url)) === i);
 
                 renderChannels(allChannels);
