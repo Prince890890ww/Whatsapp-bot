@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Raza-Bot',
+  packname: 'Prince-Bot',
   author: '‎',
-  botName: "Raza-Bot",
-  botOwner: 'Mr. Raza', // Your name
-  ownerNumber: '923001677853', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Prince-Bot",
+  botOwner: 'Prince Down', // Your name
+  ownerNumber: '994405156509', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
